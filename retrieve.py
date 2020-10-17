@@ -21,12 +21,12 @@ timestamp = dateTimeObj.strftime("%Y-%m-%d-%H-%M")
 topic = mc.topic(testid)
 topiclist = mc.topicList()
 
-with open("json/{0}_{1}.json".format(testid, timestamp), "w") as file:
-    json.dump(topic, file)
+#with open("json/{0}_{1}.json".format(testid, timestamp), "w") as file:
+#    json.dump(topic, file)
 
 storylist = mc.topicStoryList(testid, limit=storylimit)
-with open("json/testing_{0}.json".format(timestamp), "w") as file:
-    json.dump(storylist, file)
+#with open("json/testing_{0}.json".format(timestamp), "w") as file:
+#    json.dump(storylist, file)
 
 resources = {"articles": []}
 for index, value in enumerate(storylist["stories"]):
@@ -54,5 +54,5 @@ for index, value in enumerate(storylist["stories"]):
         "metrics": metrics}
     resources["articles"].append(templink)
 
-with open("json/parsed_{0}.json".format(timestamp), "w") as file:
+with open("json/query_{0}.json".format(timestamp), "w") as file:
     json.dump(resources, file)
