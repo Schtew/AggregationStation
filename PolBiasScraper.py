@@ -1,16 +1,16 @@
 import requests 
 from bs4 import BeautifulSoup
 
-URL = 'https://mediabiasfactcheck.com/fox-news/'
-page = requests.get(URL)
+class PolBiasScraper():
+    URL = 'https://mediabiasfactcheck.com/the-australian'
+    # results = soup.select('.entry-title')[0]
 
-soup = BeautifulSoup(page.content, 'html.parser')
-# results = soup.select('.entry-title')[0]
-results = soup.find("img",{"data-attachment-id": True})["alt"]
+    def parseURL(URL):
+        page = requests.get(URL)
+        soup = BeautifulSoup(page.content, 'html.parser')
+        results = soup.find("img",{"data-attachment-id": True})["alt"]
+    #    print(results.split(" - ")[3])
+        for x in results.split(" - "):
+            print(x)
 
-for x in results.split("-"):
-    print(x)
-
-print(results)
-
-
+    parseURL(URL)
