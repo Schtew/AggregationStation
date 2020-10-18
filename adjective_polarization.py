@@ -31,7 +31,7 @@ class ArticleScrapper():
             return metrics
         except:
             print("error noises from article scraper with input: ", url)
-        return {}
+        return {"polarity": 0, "subjectivity": 0.5}
 if __name__ == "__main__":
     a = ArticleScrapper()
     a.parseURL()

@@ -19,16 +19,20 @@ class PolBiasScraper():
                 credibility = None
                 l_c = None
                 for x in resultsList:
-                    if x == "Left Center Bias" or x == "Right Center Bias" or x ==  "Right Bias" or x == "Left Bias" or x == "Least Biased":
+                    biasDict = ["Left Center Bias", "Right Center Bias", "Right Bias", "Left Bias", "Least Biased"]
+                    credibilityDict = ["Credible", "Mostly Credible", "Not always Credible or Reliable", "Not Credible"]
+                    l_c_Dict = ["Liberal", "Conservation"]
+                    if x in biasDict:
                         bias = x
-                    elif x == "Credible" or x == "Mostly Credible" or x == "Not always Credible or Reliable" or x == "Not Credible":
+                    elif x in credibilityDict:
                         credibility = x
-                    elif x == "Liberal" or x == "Conservative":
+                    elif x in l_c_Dict:
                         l_c = x
-                return {"Bias": bias, "Credibility": credibility, "Liberal/Conservative": l_c}
+                return {"bias": bias, "credibility": credibility, "liberal/conservative": l_c}
             except:
-                print("error noises", soup, "\nWith this as the input url: ", url)
-        return {}
+                abc = 1
+                #print("error noises", soup, "\nWith this as the input url: ", url)
+        return {"bias": None, "credibility": None, "liberal/conservative": None}
 if __name__ == "__main__":
     p = PolBiasScraper()
     print(p.parseURL())

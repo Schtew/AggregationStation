@@ -64,6 +64,7 @@ class Retrieve:
             resources = {"articles": []}
             for index, value in enumerate(storylist):
                 if value["publish_date"] != "undateable":
+                    value["publish_date"] = value["publish_date"][:19]
                     difference = (datetime.strptime(timestamp, "%Y-%m-%d-%H-%M") - datetime.strptime(value["publish_date"], "%Y-%d-%m %H:%M:%S")).total_seconds()
                     difference = int(difference)
                     if difference < 0:
@@ -78,7 +79,7 @@ class Retrieve:
                     "inlink_count": None,
                     "outlink_count": None,
                     "facebook_share_count": None,
-                    "tag": taglist
+                    "tags": taglist
                 }
                 templink = {
                     "title": None,
