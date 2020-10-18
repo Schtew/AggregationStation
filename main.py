@@ -3,6 +3,7 @@ import json
 from adjective_polarization import ArticleScrapper
 from PolBiasScraper import PolBiasScraper
 from retrieve import Retrieve
+from datetime import datetime
 
 class main():
     def __init__(self):
@@ -12,12 +13,15 @@ class main():
         self.Retrie = Retrieve()
 
     def retrieveData(self, num = 10):
-        data = self.Retrie.retrieve(num)
+        dateTimeObj = datetime.now()
+        timestamp = dateTimeObj.strftime("%Y-%m-%d-%H-%M")
+
+        data = self.Retrie.retrieve(timestamp, num)
         data = data['articles'][:num]
         for article in data:
             article["metrics"].update(self.ArticleScrap.parseURL(article["url"]))
             buildUrlFacts = "https://mediabiasfactcheck.com/" + article["media_name"].lower().replace(" ", "-")
-            print(buildUrlFacts)
+            #print(buildUrlFacts)
             article["metrics"].update(self.BiasScrap.parseURL(buildUrlFacts))
 
             # calculations
@@ -36,13 +40,9 @@ class main():
                     if article["metrics"][x] == "Credible":
                         metricscores[x] = 5
 
-                    # do something else
+        with open("json/data_{0}.json".format(timestamp), "w") as file:
+            json.dump(data, file)
 
-            #article["credibilityscores"] = credibilityscores
-
-
-
-        print(data)
         return data
 
 if __name__ == "__main__":

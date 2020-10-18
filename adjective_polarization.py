@@ -27,7 +27,7 @@ class ArticleScrapper():
             metrics["polarity"] = articleSentiment.polarity
 
             metrics["subjectivity"] = articleSentiment.subjectivity
-            print(metrics)
+            #print(metrics)
             return metrics
         except:
             print("error noises from article scraper with input: ", url)
