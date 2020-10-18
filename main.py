@@ -19,6 +19,20 @@ class main():
             buildUrlFacts = "https://mediabiasfactcheck.com/" + article["media_name"].lower().replace(" ", "-")
             print(buildUrlFacts)
             article["metrics"].update(self.BiasScrap.parseURL(buildUrlFacts))
+
+            # calculations
+            # credibilityscores = {}
+            '''for x in article["metrics"]:
+                if y == "Bias":
+                    # credibilityscores[y] = 1
+                    # do something to calculate weight of bias
+                if y == "Credibility":
+                    # do something else'''
+
+            #article["credibilityscores"] = credibilityscores
+
+
+
         print(data)
         return data
 

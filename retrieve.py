@@ -58,9 +58,9 @@ class Retrieve:
             return resources
         else:
             params = {'q': 'tags_id_media:34412282'}
-            storylist = mc.storyList(solr_query="tags_id_media:34412282", solr_filter="publish_day:[2020-10-01T00:00:00Z TO 2020-12-20T00:00:00Z]", rows=storylimit)
-            #with open("json/testing.json", "w") as file:
-            #    json.dump(storylist, file)
+            storylist = mc.storyList(show_feeds=True, solr_query="tags_id_media:34412282", solr_filter="publish_day:[2020-10-01T00:00:00Z TO 2020-12-20T00:00:00Z]", rows=storylimit)
+            with open("json/testing2.json", "w") as file:
+                json.dump(storylist, file)
             resources = {"articles": []}
             for index, value in enumerate(storylist):
                 if value["publish_date"] != "undateable":
@@ -68,6 +68,9 @@ class Retrieve:
                     difference = int(difference)
                     if difference < 0:
                         difference = None
+
+                # dictvalues = {"conservative": 1, "liberal": 2}
+                dictvalues[json["credibility"]] = 2
                 metrics = {
                     "age": difference,
                 }
@@ -83,3 +86,5 @@ class Retrieve:
                 json.dump(resources, file)
 
             return resources
+p = Retrieve()
+p.retrieve()
