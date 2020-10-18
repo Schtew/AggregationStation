@@ -6,6 +6,7 @@ from retrieve import Retrieve
 
 class main():
     def __init__(self):
+        # Instance Varibles
         self.BiasScrap = PolBiasScraper()
         self.ArticleScrap = ArticleScrapper()
         self.Retrie = Retrieve()

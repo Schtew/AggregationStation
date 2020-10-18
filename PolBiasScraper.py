@@ -18,7 +18,7 @@ class PolBiasScraper():
                 for x in resultsList:
                     print(x)
                 if len(resultsList) > 3:
-                    return {"Bias": resultsList[1], "Crediblity": resultsList[2], "lib/conserv": resultsList[3]}
+                    return {"Bias": resultsList[1], "Crediblity": resultsList[3], "lib/conserv": resultsList[2]}
             except:
                 print("error noises", soup, "\nWith this as the input url: ", url)
         return {}
