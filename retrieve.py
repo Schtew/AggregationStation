@@ -6,6 +6,7 @@ load_dotenv()
 import os, mediacloud.api
 import json
 from datetime import datetime
+from urllib.parse import urlparse
 
 class Retrieve:
     def retrieve(self, storylimit=10):
@@ -58,8 +59,8 @@ class Retrieve:
             return resources
         else:
             params = {'q': 'tags_id_media:34412282'}
-            storylist = mc.storyList(show_feeds=True, solr_query="tags_id_media:34412282", solr_filter="publish_day:[2020-10-01T00:00:00Z TO 2020-12-20T00:00:00Z]", rows=storylimit)
-            with open("json/testing2.json", "w") as file:
+            storylist = mc.storyList(solr_query="tags_id_media:34412282", solr_filter="publish_day:[2020-10-01T00:00:00Z TO 2020-12-20T00:00:00Z]", rows=storylimit)
+            with open("json/testing.json", "w") as file:
                 json.dump(storylist, file)
             resources = {"articles": []}
             for index, value in enumerate(storylist):
@@ -69,8 +70,12 @@ class Retrieve:
                     if difference < 0:
                         difference = None
 
-                # dictvalues = {"conservative": 1, "liberal": 2}
-                dictvalues[json["credibility"]] = 2
+                #find more story info
+                story = mc.story(value["stories_id"])
+                with open("json/{0}.json".format(value["stories_id"]), "w") as file:
+                    json.dump(story, file)
+                os._exit(0)
+
                 metrics = {
                     "age": difference,
                 }
@@ -78,7 +83,7 @@ class Retrieve:
                     "title": None,
                     "media_name": value["media_name"],
                     "author": None,
-                    "url": value["guid"],
+                    "url": value["url"],
                     "metrics": metrics}
                 resources["articles"].append(templink)
 
