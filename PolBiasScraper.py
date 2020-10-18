@@ -21,7 +21,7 @@ class PolBiasScraper():
                 for x in resultsList:
                     if x == "Left Center Bias" or x == "Right Center Bias" or x ==  "Right Bias" or x == "Left Bias" or x == "Least Biased":
                         bias = x
-                    elif x == "Credible":
+                    elif x == "Credible" or x == "Mostly Credible" or x == "Not always Credible or Reliable" or x == "Not Credible":
                         credibility = x
                     elif x == "Liberal" or x == "Conservative":
                         l_c = x

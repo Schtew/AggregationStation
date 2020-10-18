@@ -39,11 +39,20 @@ class main():
                 if x == "Credibility":
                     if article["metrics"][x] == "Credible":
                         metricscores[x] = 5
+                    elif article["metrics"][x] == "Mostly Credible":
+                        metricscores[x] = 3.5
+                    elif article["metrics"][x] == "Not always Credible or Reliable":
+                        metricscores[x] = 2
+                    else:
+                        metricscores[x] = 0 
+            article["metricscores"] = metricscores
 
         with open("json/data_{0}.json".format(timestamp), "w") as file:
             json.dump(data, file)
 
         return data
+                    # do something else
+
 
 if __name__ == "__main__":
     m = main()
