@@ -9,13 +9,21 @@ class PolBiasScraper():
         self.url = url
     def parseURL(self, url = URL):
         page = requests.get(url)
-        soup = BeautifulSoup(page.content, 'html.parser')
-        results = soup.find("img",{"data-attachment-id": True})["alt"]
-    #    print(results.split(" - ")[3])
-        for x in results.split(" - "):
-            print(x)
+        if(page.status_code == 200):
+            soup = BeautifulSoup(page.content, 'html.parser')
+            try:
+                results = soup.find("img",{"data-attachment-id": True})["alt"]
+                # print(results.split(" - ")[3])
+                resultsList = results.split(" - ")
+                for x in resultsList:
+                    print(x)
+                if len(resultsList) > 3:
+                    return {"Bias": resultsList[1], "Crediblity": resultsList[2], "lib/conserv": resultsList[3]}
+            except:
+                print("error noises")
+        return {}
 if __name__ == "__main__":
     p = PolBiasScraper()
-    p.parseURL()
+    print(p.parseURL())
     a = ArticleScrapper()
     a.parseURL()

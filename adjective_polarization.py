@@ -19,16 +19,19 @@ class ArticleScrapper():
     #     return filename
 
     def parseURL(self, url = url1):
-        article = Article(url)
-        metrics = {}
-        articleText = fulltext(requests.get(url).text)
-        articleSentiment = TextBlob(articleText).sentiment
-        metrics["polarity"] = articleSentiment.polarity
+        try:
+            article = Article(url)
+            metrics = {}
+            articleText = fulltext(requests.get(url).text)
+            articleSentiment = TextBlob(articleText).sentiment
+            metrics["polarity"] = articleSentiment.polarity
 
-        metrics["subjectivity"] = articleSentiment.subjectivity
-        print(metrics)
-        return metrics
+            metrics["subjectivity"] = articleSentiment.subjectivity
+            print(metrics)
+            return metrics
+        except:
+            print("error noises from article scraper with input: ", url)
+        return {}
 if __name__ == "__main__":
     a = ArticleScrapper()
     a.parseURL()
-    
