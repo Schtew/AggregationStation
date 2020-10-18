@@ -16,7 +16,6 @@ class ArticleScrapper():
     def parseURL(url):
         article = Article(url)
 
-        print(article.authors)
         print(article.text)
         if article.authors != None:
             authors = article.authors
