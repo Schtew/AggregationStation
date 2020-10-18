@@ -1,1 +1,1 @@
-# HackGT7 is cool
+# HackGT7
