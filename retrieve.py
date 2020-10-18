@@ -6,7 +6,6 @@ load_dotenv()
 import os, mediacloud.api
 import json
 from datetime import datetime
-from urllib.parse import urlparse
 
 class Retrieve:
     def retrieve(self, storylimit=10):
@@ -43,14 +42,17 @@ class Retrieve:
                     "age": difference,
                     "inlink_count": value["inlink_count"],
                     "outlink_count": value["outlink_count"],
-                    "facebook_share_count": value["facebook_share_count"]
+                    "facebook_share_count": value["facebook_share_count"],
+                    "tag": None,
                 }
                 templink = {
                     "title": value["title"],
                     "media_name": value["media_name"],
                     "author": author,
                     "url": value["url"],
-                    "metrics": metrics}
+                    "metrics": metrics
+                }
+
                 resources["articles"].append(templink)
 
             with open("json/query_{0}.json".format(timestamp), "w") as file:
@@ -70,15 +72,27 @@ class Retrieve:
                     if difference < 0:
                         difference = None
 
+                taglist = []
+                for tag in value["story_tags"]:
+                    taglist.append(tag["tag"])
+
+                os._exit(0)
+
                 metrics = {
                     "age": difference,
+                    "inlink_count": None,
+                    "outlink_count": None,
+                    "facebook_share_count": None,
+                    "tag": taglist
                 }
                 templink = {
                     "title": None,
                     "media_name": value["media_name"],
                     "author": None,
                     "url": value["url"],
-                    "metrics": metrics}
+                    "metrics": metrics
+                }
+
                 resources["articles"].append(templink)
 
             with open("json/query_{0}.json".format(timestamp), "w") as file:
