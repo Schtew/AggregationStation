@@ -5,7 +5,7 @@ import glob
 from textblob import TextBlob
 
 class ArticleScrapper():
-    url = 'https://www.usatoday.com/story/news/politics/2020/10/17/fbi-probes-possible-russia-link-hunter-biden-data-trump-ally-giuliani/3661895001/'
+    url = 'https://www.foxnews.com/us/free-speech-rally-marred-by-violence-as-counterprotesters-storm'
 
     # def check_update():
     #     filename = None
@@ -16,7 +16,7 @@ class ArticleScrapper():
     #         filename = sorted(glob.glob(path))[len(glob.glob(path))-1]
     #     return filename
 
-    def parseURL(url):
+    def parseURL(self, url):
         article = Article(url)
         metrics = {}
         
@@ -25,5 +25,6 @@ class ArticleScrapper():
         metrics["polarity"] = articleSentiment.polarity
         metrics["subjectivity"] = articleSentiment.subjectivity
         print(metrics)
+        return metrics
 
     parseURL(url)
