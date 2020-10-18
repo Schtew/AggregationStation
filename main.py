@@ -12,14 +12,17 @@ class main():
         self.ArticleScrap = ArticleScrapper()
         self.Retrie = Retrieve()
 
-    def retrieveData(self, num = 10):
+    def retrieveData(self, num = 90):
         dateTimeObj = datetime.now()
         timestamp = dateTimeObj.strftime("%Y-%m-%d-%H-%M")
 
         data = self.Retrie.retrieve(timestamp, num)
         data = data['articles'][:num]
         unrankeddata = {}
+        count = 1
         for article in data:
+            print(count)
+            count += 1
             article["metrics"].update(self.ArticleScrap.parseURL(article["url"]))
             buildUrlFacts = "https://mediabiasfactcheck.com/" + article["media_name"].lower().replace(" ", "-")
             #print(buildUrlFacts)
@@ -71,7 +74,7 @@ class main():
             unweighted["age"] = (x + 1) ** (-5*x)
 
             # tags
-            politicweight = 0.7
+            politicweight = 0.9
             if article["metricscores"]["tags"] > 1:
                 unweighted["tags"] = politicweight + ((article["metricscores"]["tags"] - 1) * (1-politicweight))
             else:
@@ -92,11 +95,11 @@ class main():
 
             weight = {
                 "age": 0.09,
-                "tags": 0.17,
+                "tags": 0.21,
                 "polarity": 0.17,
                 "subjectivity": 0.11,
                 "credibility": 0.25,
-                "bias": 0.21
+                "bias": 0.17
             } # needs to add up to 1
 
             score = 0
@@ -115,6 +118,8 @@ class main():
         for article in sorted(unrankeddata.keys(), reverse=True):
             rankeddata[rank] = unrankeddata[article]
             rank += 1
+            if rank == 55:
+                break;
             #print("{0} , {1}".format(unrankeddata[article]["url"], unrankeddata[article]["score"]))
 
         with open("json/data_{0}.json".format(timestamp), "w") as file:
