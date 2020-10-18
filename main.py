@@ -21,13 +21,22 @@ class main():
             article["metrics"].update(self.BiasScrap.parseURL(buildUrlFacts))
 
             # calculations
-            # credibilityscores = {}
-            '''for x in article["metrics"]:
-                if y == "Bias":
+            metricscores = {}
+            for x in article["metrics"]:
+                if x == "Bias":
+                    if article["metrics"][x] == "Left Center Bias" or article["metrics"][x] == "Right Center Bias":
+                        metricscores[x] = 3
+                    elif article["metrics"][x] == "Right Bias" or article["metrics"][x] == "Left Bias":
+                        metricscores[x] = 1
+                    elif article["metrics"][x] == "Least Biased":
+                        metricscores[x] = 5
                     # credibilityscores[y] = 1
                     # do something to calculate weight of bias
-                if y == "Credibility":
-                    # do something else'''
+                if x == "Credibility":
+                    if article["metrics"][x] == "Credible":
+                        metricscores[x] == 5
+                        
+                    # do something else
 
             #article["credibilityscores"] = credibilityscores
 
