@@ -15,10 +15,17 @@ class PolBiasScraper():
                 results = soup.find("img",{"data-attachment-id": True})["alt"]
                 # print(results.split(" - ")[3])
                 resultsList = results.split(" - ")
+                bias = None
+                credibility = None
+                l_c = None
                 for x in resultsList:
-                    print(x)
-                if len(resultsList) > 3:
-                    return {"Bias": resultsList[1], "Crediblity": resultsList[3], "lib/conserv": resultsList[2]}
+                    if x == "Left Center Bias" or x == "Right Center Bias" or x ==  "Right Bias" or x == "Left Bias" or x == "Least Biased":
+                        bias = x
+                    elif x == "Credible":
+                        credibility = x
+                    elif x == "Liberal" or x == "Conservative":
+                        l_c = x
+                return {"Bias": bias, "Credibility": credibility, "Liberal/Conservative": l_c}
             except:
                 print("error noises", soup, "\nWith this as the input url: ", url)
         return {}

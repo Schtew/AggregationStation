@@ -34,8 +34,8 @@ class main():
                     # do something to calculate weight of bias
                 if x == "Credibility":
                     if article["metrics"][x] == "Credible":
-                        metricscores[x] == 5
-                        
+                        metricscores[x] = 5
+
                     # do something else
 
             #article["credibilityscores"] = credibilityscores
