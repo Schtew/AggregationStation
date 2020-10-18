@@ -2,14 +2,16 @@
 import json
 from adjective_polarization import ArticleScrapper
 from PolBiasScraper import PolBiasScraper
+from retrieve import Retrieve
 
 class main():
     def __init__(self):
         self.BiasScrap = PolBiasScraper()
         self.ArticleScrap = ArticleScrapper()
+        self.Retrie = Retrieve()
 
     def retrieveData(self, num = 10):
-        data = json.load(open("json\\query_2020-10-17-23-11.json"))
+        data = self.Retrie.retrieve(num)
         data = data['articles'][:num]
         for article in data:
             article["metrics"].update(self.ArticleScrap.parseURL(article["url"]))
