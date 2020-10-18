@@ -17,6 +17,7 @@ class main():
             print(buildUrlFacts)
             article["metrics"].update(self.BiasScrap.parseURL(buildUrlFacts))
         print(data)
+        return data
 
 if __name__ == "__main__":
     m = main()
