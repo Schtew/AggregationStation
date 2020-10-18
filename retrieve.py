@@ -70,12 +70,6 @@ class Retrieve:
                     if difference < 0:
                         difference = None
 
-                #find more story info
-                story = mc.story(value["stories_id"])
-                with open("json/{0}.json".format(value["stories_id"]), "w") as file:
-                    json.dump(story, file)
-                os._exit(0)
-
                 metrics = {
                     "age": difference,
                 }
