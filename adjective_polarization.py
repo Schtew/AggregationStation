@@ -2,7 +2,7 @@ from newspaper import Article
 import glob
 
 class ArticleScrapper():
-    url = 'https://www.usatoday.com/story/news/politics/2020/10/17/fbi-probes-possible-russia-link-hunter-biden-data-trump-ally-giuliani/3661895001/'
+    url = 'https://www.foxnews.com/us/free-speech-rally-marred-by-violence-as-counterprotesters-storm'
 
     def check_update():
         filename = None
@@ -15,7 +15,8 @@ class ArticleScrapper():
 
     def parseURL(url):
         article = Article(url)
-
+        article.html
+        print(article.authors)
         print(article.text)
         if article.authors != None:
             authors = article.authors

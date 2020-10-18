@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 class PolBiasScraper():
-    URL = 'https://mediabiasfactcheck.com/the-australian'
+    URL = 'https://mediabiasfactcheck.com/ABC-australia'
     # results = soup.select('.entry-title')[0]
 
     def parseURL(URL):
