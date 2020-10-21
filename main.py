@@ -74,7 +74,7 @@ class main():
             unweighted["age"] = (x + 1) ** (-5*x)
 
             # tags
-            politicweight = 0.9
+            politicweight = 0.95
             if article["metricscores"]["tags"] > 1:
                 unweighted["tags"] = politicweight + ((article["metricscores"]["tags"] - 1) * (1-politicweight))
             else:
@@ -94,11 +94,11 @@ class main():
             unweighted["bias"] = article["metricscores"]["bias"] / 5
 
             weight = {
-                "age": 0.09,
-                "tags": 0.21,
-                "polarity": 0.17,
-                "subjectivity": 0.11,
-                "credibility": 0.25,
+                "age": 0.12,
+                "tags": 0.24,
+                "polarity": 0.21,
+                "subjectivity": 0.13,
+                "credibility": 0.13,
                 "bias": 0.17
             } # needs to add up to 1
 

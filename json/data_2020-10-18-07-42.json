@@ -5,7 +5,7 @@
     "author": null,
     "url": "https://www.theage.com.au/national/queensland/premier-sledges-pm-s-support-for-queensland-lnp-campaign-20201010-p563uu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 715966,
+      "age": 713626,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -38,7 +38,7 @@
       "liberal/conservative": "Liberal"
     },
     "metricscores": {
-      "age": 715966,
+      "age": 713626,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -49,7 +49,7 @@
       "credibility": 10,
       "liberal/conservative": "Liberal"
     },
-    "score": 0.5707589418967269
+    "score": 0.5856568372928229
   },
   "2": {
     "title": null,
@@ -57,7 +57,7 @@
     "author": null,
     "url": "https://www.theaustralian.com.au/breaking-news/queensland-grandad-snares-prime-minister-scott-morrisons-signature/news-story/35ae4c05be34f80373485ea4a0601a69",
     "metrics": {
-      "age": 716220,
+      "age": 713880,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -90,7 +90,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 716220,
+      "age": 713880,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -101,7 +101,7 @@
       "credibility": 7,
       "liberal/conservative": null
     },
-    "score": 0.525282049284589
+    "score": 0.5242115153770986
   },
   "3": {
     "title": null,
@@ -109,7 +109,7 @@
     "author": null,
     "url": "https://www.news.com.au/national/west-australian-business-community-calling-for-border-restrictions-to-ease-by-december/video/0a7c7d139bee21295e9989a952edd3a8",
     "metrics": {
-      "age": 720664,
+      "age": 718324,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -126,7 +126,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 720664,
+      "age": 718324,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -137,7 +137,7 @@
       "credibility": 7,
       "liberal/conservative": null
     },
-    "score": 0.4724395788990142
+    "score": 0.46966141154081964
   },
   "4": {
     "title": null,
@@ -145,7 +145,7 @@
     "author": null,
     "url": "https://www.theage.com.au/culture/art-and-design/best-of-the-week-what-to-see-hear-and-do-from-october-11-17-20201008-p5636f.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -175,7 +175,7 @@
       "liberal/conservative": "Liberal"
     },
     "metricscores": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -186,7 +186,7 @@
       "credibility": 10,
       "liberal/conservative": "Liberal"
     },
-    "score": 0.40087982289774526
+    "score": 0.44992152177968314
   },
   "5": {
     "title": null,
@@ -194,7 +194,7 @@
     "author": null,
     "url": "https://www.theage.com.au/culture/tv-and-radio/i-hold-grudges-joel-creasey-can-t-stop-scrolling-for-old-classmates-20201008-p5635k.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -221,7 +221,7 @@
       "liberal/conservative": "Liberal"
     },
     "metricscores": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -232,7 +232,7 @@
       "credibility": 10,
       "liberal/conservative": "Liberal"
     },
-    "score": 0.38161651120943363
+    "score": 0.4309624308705923
   },
   "6": {
     "title": null,
@@ -240,7 +240,7 @@
     "author": null,
     "url": "https://www.theage.com.au/culture/tv-and-radio/with-truly-awesome-frocks-justine-clarke-tells-our-airline-story-20200930-p560nj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -261,7 +261,7 @@
       "liberal/conservative": "Liberal"
     },
     "metricscores": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -272,57 +272,15 @@
       "credibility": 10,
       "liberal/conservative": "Liberal"
     },
-    "score": 0.3720026833706058
+    "score": 0.4200295248876863
   },
   "7": {
-    "title": null,
-    "media_name": "News.com.au",
-    "author": null,
-    "url": "https://www.news.com.au/lifestyle/parenting/pregnancy/man-reveals-hes-fathered-42-children-after-donating-sperm-online/news-story/d92972113334faaa65bd5887c03fcd95",
-    "metrics": {
-      "age": 716644,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "geonames_2635167",
-        "nyt_labeller_v1.0.0",
-        "computers and the internet",
-        "medicine and health",
-        "television",
-        "children and youth",
-        "Tom",
-        "Steph",
-        "readability-lxml-0.7",
-        "cliff_clavin_v2.6.0"
-      ],
-      "polarity": 0.38796296296296295,
-      "subjectivity": 0.6162037037037037,
-      "bias": "Right Center Bias",
-      "credibility": "Mostly Credible",
-      "liberal/conservative": null
-    },
-    "metricscores": {
-      "age": 716644,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 0.3333333333333333,
-      "polarity": 0.38796296296296295,
-      "subjectivity": 0.6162037037037037,
-      "bias": 3,
-      "credibility": 7,
-      "liberal/conservative": null
-    },
-    "score": 0.3632662974551185
-  },
-  "8": {
     "title": null,
     "media_name": "The Age",
     "author": null,
     "url": "https://www.theage.com.au/sport/racing/arcadia-queen-lays-down-cox-plate-market-after-beating-russian-camelot-20201010-p563uo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 714969,
+      "age": 712629,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -354,7 +312,7 @@
       "liberal/conservative": "Liberal"
     },
     "metricscores": {
-      "age": 714969,
+      "age": 712629,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -365,15 +323,15 @@
       "credibility": 10,
       "liberal/conservative": "Liberal"
     },
-    "score": 0.36140272173755383
+    "score": 0.41373190914685243
   },
-  "9": {
+  "8": {
     "title": null,
     "media_name": "The Age",
     "author": null,
     "url": "https://www.theage.com.au/culture/books/you-needn-t-get-tipsy-on-this-pub-crawl-of-discovery-20201002-p561gg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -399,7 +357,7 @@
       "liberal/conservative": "Liberal"
     },
     "metricscores": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -410,15 +368,15 @@
       "credibility": 10,
       "liberal/conservative": "Liberal"
     },
-    "score": 0.3603457297799787
+    "score": 0.41078303486976764
   },
-  "10": {
+  "9": {
     "title": null,
     "media_name": "The Age",
     "author": null,
     "url": "https://www.theage.com.au/sport/nrl/young-gun-repaying-raiders-faith-after-disciplinary-issues-20201010-p563ul.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 714047,
+      "age": 711707,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -447,7 +405,7 @@
       "liberal/conservative": "Liberal"
     },
     "metricscores": {
-      "age": 714047,
+      "age": 711707,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -458,52 +416,15 @@
       "credibility": 10,
       "liberal/conservative": "Liberal"
     },
-    "score": 0.3579979161963943
+    "score": 0.40957490965313215
   },
-  "11": {
-    "title": null,
-    "media_name": "The Age",
-    "author": null,
-    "url": "https://www.theage.com.au/national/victoria/with-mask-to-match-racing-businesses-try-to-stay-on-track-as-fans-away-from-it-20201009-p563na.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-    "metrics": {
-      "age": 715860,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "nyt_labeller_v1.0.0",
-        "apparel",
-        "readability-lxml-0.7",
-        "cliff_clavin_v2.6.0",
-        "Julia Torrance Hemingway"
-      ],
-      "polarity": 0.1551406926406926,
-      "subjectivity": 0.5024891774891775,
-      "bias": "Left Center Bias",
-      "credibility": "Credible",
-      "liberal/conservative": "Liberal"
-    },
-    "metricscores": {
-      "age": 715860,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 0.16666666666666666,
-      "polarity": 0.1551406926406926,
-      "subjectivity": 0.5024891774891775,
-      "bias": 3,
-      "credibility": 10,
-      "liberal/conservative": "Liberal"
-    },
-    "score": 0.3514271751768424
-  },
-  "12": {
+  "10": {
     "title": null,
     "media_name": "The Age",
     "author": null,
     "url": "https://www.theage.com.au/sport/nrl/why-the-blues-won-t-be-forgetting-the-man-known-as-big-tino-20201010-p563uz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 715958,
+      "age": 713618,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -532,7 +453,7 @@
       "liberal/conservative": "Liberal"
     },
     "metricscores": {
-      "age": 715958,
+      "age": 713618,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -543,7 +464,86 @@
       "credibility": 10,
       "liberal/conservative": "Liberal"
     },
-    "score": 0.3510312720009808
+    "score": 0.40307101906247456
+  },
+  "11": {
+    "title": null,
+    "media_name": "The Age",
+    "author": null,
+    "url": "https://www.theage.com.au/national/victoria/with-mask-to-match-racing-businesses-try-to-stay-on-track-as-fans-away-from-it-20201009-p563na.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+    "metrics": {
+      "age": 713520,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "nyt_labeller_v1.0.0",
+        "apparel",
+        "readability-lxml-0.7",
+        "cliff_clavin_v2.6.0",
+        "Julia Torrance Hemingway"
+      ],
+      "polarity": 0.1551406926406926,
+      "subjectivity": 0.5024891774891775,
+      "bias": "Left Center Bias",
+      "credibility": "Credible",
+      "liberal/conservative": "Liberal"
+    },
+    "metricscores": {
+      "age": 713520,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 0.16666666666666666,
+      "polarity": 0.1551406926406926,
+      "subjectivity": 0.5024891774891775,
+      "bias": 3,
+      "credibility": 10,
+      "liberal/conservative": "Liberal"
+    },
+    "score": 0.3998472812242322
+  },
+  "12": {
+    "title": null,
+    "media_name": "News.com.au",
+    "author": null,
+    "url": "https://www.news.com.au/lifestyle/parenting/pregnancy/man-reveals-hes-fathered-42-children-after-donating-sperm-online/news-story/d92972113334faaa65bd5887c03fcd95",
+    "metrics": {
+      "age": 714304,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "geonames_2635167",
+        "nyt_labeller_v1.0.0",
+        "computers and the internet",
+        "medicine and health",
+        "television",
+        "children and youth",
+        "Tom",
+        "Steph",
+        "readability-lxml-0.7",
+        "cliff_clavin_v2.6.0"
+      ],
+      "polarity": 0.38796296296296295,
+      "subjectivity": 0.6162037037037037,
+      "bias": "Right Center Bias",
+      "credibility": "Mostly Credible",
+      "liberal/conservative": null
+    },
+    "metricscores": {
+      "age": 714304,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 0.3333333333333333,
+      "polarity": 0.38796296296296295,
+      "subjectivity": 0.6162037037037037,
+      "bias": 3,
+      "credibility": 7,
+      "liberal/conservative": null
+    },
+    "score": 0.3935297774121699
   },
   "13": {
     "title": null,
@@ -551,7 +551,7 @@
     "author": null,
     "url": "https://www.theage.com.au/lifestyle/life-and-relationships/cath-moore-hunting-for-hidden-treasure-in-a-time-of-confinement-20201005-p5629h.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -571,7 +571,7 @@
       "liberal/conservative": "Liberal"
     },
     "metricscores": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -582,58 +582,15 @@
       "credibility": 10,
       "liberal/conservative": "Liberal"
     },
-    "score": 0.334076792594715
+    "score": 0.38430536016352157
   },
   "14": {
-    "title": null,
-    "media_name": "News.com.au",
-    "author": null,
-    "url": "http://feedproxy.google.com/~r/newscomautasndm/~3/ya5SG_gq7KY/57fafa7bee5fb094b38bbf6316397f31",
-    "metrics": {
-      "age": 716644,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "geonames_2077456",
-        "geonames_2058645",
-        "nyt_labeller_v1.0.0",
-        "housing",
-        "Butler",
-        "EIS",
-        "Deb Stephens",
-        "readability-lxml-0.7",
-        "geonames_8349278",
-        "cliff_clavin_v2.6.0",
-        "Edgar Hawson"
-      ],
-      "polarity": 0.2397452346041056,
-      "subjectivity": 0.47018572825024446,
-      "bias": "Right Center Bias",
-      "credibility": "Mostly Credible",
-      "liberal/conservative": null
-    },
-    "metricscores": {
-      "age": 716644,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 0.36666666666666664,
-      "polarity": 0.2397452346041056,
-      "subjectivity": 0.47018572825024446,
-      "bias": 3,
-      "credibility": 7,
-      "liberal/conservative": null
-    },
-    "score": 0.31920097894746124
-  },
-  "15": {
     "title": null,
     "media_name": "The Age",
     "author": null,
     "url": "https://www.theage.com.au/sport/nrl/tough-loss-for-roosters-is-set-to-be-big-win-for-fittler-s-blues-20201010-p563u8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -676,7 +633,7 @@
       "liberal/conservative": "Liberal"
     },
     "metricscores": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -687,15 +644,15 @@
       "credibility": 10,
       "liberal/conservative": "Liberal"
     },
-    "score": 0.31573638855431096
+    "score": 0.37519323895140033
   },
-  "16": {
+  "15": {
     "title": null,
     "media_name": "The Age",
     "author": null,
     "url": "https://www.theage.com.au/sport/basketball/miami-heat-force-game-six-with-win-against-lakers-20201010-p563vc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 719729,
+      "age": 717389,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -726,7 +683,7 @@
       "liberal/conservative": "Liberal"
     },
     "metricscores": {
-      "age": 719729,
+      "age": 717389,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -737,15 +694,15 @@
       "credibility": 10,
       "liberal/conservative": "Liberal"
     },
-    "score": 0.31300657384949193
+    "score": 0.36990778107354627
   },
-  "17": {
+  "16": {
     "title": null,
     "media_name": "The Age",
     "author": null,
     "url": "https://www.theage.com.au/national/three-quarters-of-people-have-pandemic-related-mental-health-issues-20201010-p563vb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 714458,
+      "age": 712118,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -770,7 +727,7 @@
       "liberal/conservative": "Liberal"
     },
     "metricscores": {
-      "age": 714458,
+      "age": 712118,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -781,15 +738,15 @@
       "credibility": 10,
       "liberal/conservative": "Liberal"
     },
-    "score": 0.3096986347002725
+    "score": 0.36432188091782025
   },
-  "18": {
+  "17": {
     "title": null,
     "media_name": "The Age",
     "author": null,
     "url": "https://www.theage.com.au/lifestyle/life-and-relationships/about-last-night-what-is-the-secret-to-making-our-relationship-last-20201001-p5611v.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -807,7 +764,7 @@
       "liberal/conservative": "Liberal"
     },
     "metricscores": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -818,7 +775,50 @@
       "credibility": 10,
       "liberal/conservative": "Liberal"
     },
-    "score": 0.30496083894052606
+    "score": 0.356529914530723
+  },
+  "18": {
+    "title": null,
+    "media_name": "News.com.au",
+    "author": null,
+    "url": "http://feedproxy.google.com/~r/newscomautasndm/~3/ya5SG_gq7KY/57fafa7bee5fb094b38bbf6316397f31",
+    "metrics": {
+      "age": 714304,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "geonames_2077456",
+        "geonames_2058645",
+        "nyt_labeller_v1.0.0",
+        "housing",
+        "Butler",
+        "EIS",
+        "Deb Stephens",
+        "readability-lxml-0.7",
+        "geonames_8349278",
+        "cliff_clavin_v2.6.0",
+        "Edgar Hawson"
+      ],
+      "polarity": 0.2397452346041056,
+      "subjectivity": 0.47018572825024446,
+      "bias": "Right Center Bias",
+      "credibility": "Mostly Credible",
+      "liberal/conservative": null
+    },
+    "metricscores": {
+      "age": 714304,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 0.36666666666666664,
+      "polarity": 0.2397452346041056,
+      "subjectivity": 0.47018572825024446,
+      "bias": 3,
+      "credibility": 7,
+      "liberal/conservative": null
+    },
+    "score": 0.35272881347168983
   },
   "19": {
     "title": null,
@@ -826,7 +826,7 @@
     "author": null,
     "url": "https://www.news.com.au/technology/home-entertainment/tv/sharpes-back-with-a-postwaterloo-adventure-in-paris-bernard-cornwell-reveals-as-he-farewells-muchloved-the-last-kingdom-hero-uhtred/news-story/eaa5abf742ff724534a8ff64547e6a96",
     "metrics": {
-      "age": 718449,
+      "age": 716109,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -870,7 +870,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 718449,
+      "age": 716109,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -881,15 +881,246 @@
       "credibility": 7,
       "liberal/conservative": null
     },
-    "score": 0.2957949713349042
+    "score": 0.33708831678983026
   },
   "20": {
+    "title": null,
+    "media_name": "News.com.au",
+    "author": null,
+    "url": "https://www.news.com.au/entertainment/celebrity-life/brad-pitt-and-angelina-jolies-hollywood-custody-battle-for-their-children/news-story/1c6d927d7007fd66a81dc95511f3eaa8",
+    "metrics": {
+      "age": 716109,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "geonames_6252001",
+        "geonames_5332921",
+        "geonames_5357527",
+        "nyt_labeller_v1.0.0",
+        "Michael Jackson",
+        "Angelina Jolie",
+        "Jane",
+        "Brad Pitt",
+        "Oscar",
+        "Maddox",
+        "Shiloh",
+        "Pax",
+        "Vivienne",
+        "Knox",
+        "Angie",
+        "Mrs Smith",
+        "Jodi Arias",
+        "Melissa Brymer",
+        "William Thiel",
+        "Stan Katz",
+        "Fred Luskin",
+        "Jillian Armenante",
+        "Robin Deutsch",
+        "Alyce LaViolette",
+        "readability-lxml-0.7",
+        "John W Ouderkirk",
+        "Maleficent star Angelina",
+        "Roland Mary",
+        "cliff_clavin_v2.6.0",
+        "Nicole Poturalski",
+        "Bren Chasse",
+        "The Sun Brad"
+      ],
+      "polarity": 0.05144099727433063,
+      "subjectivity": 0.44194762468571996,
+      "bias": "Right Center Bias",
+      "credibility": "Mostly Credible",
+      "liberal/conservative": null
+    },
+    "metricscores": {
+      "age": 716109,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 1,
+      "polarity": 0.05144099727433063,
+      "subjectivity": 0.44194762468571996,
+      "bias": 3,
+      "credibility": 7,
+      "liberal/conservative": null
+    },
+    "score": 0.31328603943156585
+  },
+  "21": {
+    "title": null,
+    "media_name": "News.com.au",
+    "author": null,
+    "url": "https://www.news.com.au/sport/more-sports/lakers-wide-open-game-winner-misses/video/0a7f0e136db99db542af583b726826e5",
+    "metrics": {
+      "age": 717295,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "nyt_labeller_v1.0.0",
+        "baseball",
+        "basketball",
+        "games",
+        "playoff games",
+        "NBA",
+        "LeBron James",
+        "Jimmy Butler",
+        "LA Lakers",
+        "Miami Heat",
+        "readability-lxml-0.7",
+        "cliff_clavin_v2.6.0"
+      ],
+      "polarity": -0.4,
+      "subjectivity": 0.4,
+      "bias": "Right Center Bias",
+      "credibility": "Mostly Credible",
+      "liberal/conservative": null
+    },
+    "metricscores": {
+      "age": 717295,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 0.4,
+      "polarity": -0.4,
+      "subjectivity": 0.4,
+      "bias": 3,
+      "credibility": 7,
+      "liberal/conservative": null
+    },
+    "score": 0.3102711774227276
+  },
+  "22": {
+    "title": null,
+    "media_name": "The Australian",
+    "author": null,
+    "url": "https://www.theaustralian.com.au/news/latest-news/pregnant-wa-woman-shot-during-home-invasion/news-story/e26cc0d796b1826633ac2f91c21131d6",
+    "metrics": {
+      "age": 714480,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "geonames_2077456",
+        "geonames_2058645",
+        "geonames_2063523",
+        "nyt_labeller_v1.0.0",
+        "medicine and health",
+        "murders and attempted murders",
+        "robberies and thefts",
+        "Clarkson",
+        "Stephen Foley",
+        "Royal Perth Hospital",
+        "readability-lxml-0.7",
+        "cliff_clavin_v2.6.0"
+      ],
+      "polarity": 0.02619047619047619,
+      "subjectivity": 0.1797619047619048,
+      "bias": "Right Center Bias",
+      "credibility": "Mostly Credible",
+      "liberal/conservative": null
+    },
+    "metricscores": {
+      "age": 714480,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 0.4,
+      "polarity": 0.02619047619047619,
+      "subjectivity": 0.1797619047619048,
+      "bias": 3,
+      "credibility": 7,
+      "liberal/conservative": null
+    },
+    "score": 0.2936317520708216
+  },
+  "23": {
+    "title": null,
+    "media_name": "News.com.au",
+    "author": null,
+    "url": "http://feedproxy.google.com/~r/newscomautasndm/~3/RhHYFowtS3M/debbb452767fd89cb9a2f03f5ea6e7b8",
+    "metrics": {
+      "age": 714304,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "geonames_2077456",
+        "geonames_2147291",
+        "nyt_labeller_v1.0.0",
+        "murders and attempted murders",
+        "readability-lxml-0.7",
+        "Victoria Cafasso",
+        "Nancy Grunwaldt",
+        "cliff_clavin_v2.6.0"
+      ],
+      "polarity": 0.013028541226215645,
+      "subjectivity": 0.49410676532769565,
+      "bias": "Right Center Bias",
+      "credibility": "Mostly Credible",
+      "liberal/conservative": null
+    },
+    "metricscores": {
+      "age": 714304,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 0.26666666666666666,
+      "polarity": 0.013028541226215645,
+      "subjectivity": 0.49410676532769565,
+      "bias": 3,
+      "credibility": 7,
+      "liberal/conservative": null
+    },
+    "score": 0.28714813932588057
+  },
+  "24": {
+    "title": null,
+    "media_name": "News.com.au",
+    "author": null,
+    "url": "https://www.news.com.au/national/flight-to-nowhere-qantas-launches-lowaltitude-scenic-flights-around-australia/video/c2694043ddf132311d923d8e24bb290b",
+    "metrics": {
+      "age": 717348,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "geonames_2077456",
+        "nyt_labeller_v1.0.0",
+        "airlines and airplanes",
+        "travel and vacations",
+        "Qantas",
+        "readability-lxml-0.7",
+        "cliff_clavin_v2.6.0"
+      ],
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "bias": "Right Center Bias",
+      "credibility": "Mostly Credible",
+      "liberal/conservative": null
+    },
+    "metricscores": {
+      "age": 717348,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 0.23333333333333334,
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "bias": 3,
+      "credibility": 7,
+      "liberal/conservative": null
+    },
+    "score": 0.2827706719295221
+  },
+  "25": {
     "title": null,
     "media_name": "Australian Broadcast Company (ABC)",
     "author": null,
     "url": "https://www.abc.net.au/qanda/2020-11-05/12211454",
     "metrics": {
-      "age": 13854060,
+      "age": 13851720,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -951,7 +1182,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 13854060,
+      "age": 13851720,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -962,15 +1193,15 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.2862352574639447
+    "score": 0.25315290696634835
   },
-  "21": {
+  "26": {
     "title": null,
     "media_name": "ABC Rural",
     "author": null,
     "url": "https://www.abc.net.au/news/2020-10-10/qld-state-election-2020-scott-morrison-joins-capaign-labor-lnp/12748066",
     "metrics": {
-      "age": 719973,
+      "age": 717633,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1002,7 +1233,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 719973,
+      "age": 717633,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1013,79 +1244,15 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.2817929110022097
+    "score": 0.2454917678792054
   },
-  "22": {
-    "title": null,
-    "media_name": "News.com.au",
-    "author": null,
-    "url": "https://www.news.com.au/entertainment/celebrity-life/brad-pitt-and-angelina-jolies-hollywood-custody-battle-for-their-children/news-story/1c6d927d7007fd66a81dc95511f3eaa8",
-    "metrics": {
-      "age": 718449,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "geonames_6252001",
-        "geonames_5332921",
-        "geonames_5357527",
-        "nyt_labeller_v1.0.0",
-        "Michael Jackson",
-        "Angelina Jolie",
-        "Jane",
-        "Brad Pitt",
-        "Oscar",
-        "Maddox",
-        "Shiloh",
-        "Pax",
-        "Vivienne",
-        "Knox",
-        "Angie",
-        "Mrs Smith",
-        "Jodi Arias",
-        "Melissa Brymer",
-        "William Thiel",
-        "Stan Katz",
-        "Fred Luskin",
-        "Jillian Armenante",
-        "Robin Deutsch",
-        "Alyce LaViolette",
-        "readability-lxml-0.7",
-        "John W Ouderkirk",
-        "Maleficent star Angelina",
-        "Roland Mary",
-        "cliff_clavin_v2.6.0",
-        "Nicole Poturalski",
-        "Bren Chasse",
-        "The Sun Brad"
-      ],
-      "polarity": 0.05144099727433063,
-      "subjectivity": 0.44194762468571996,
-      "bias": "Right Center Bias",
-      "credibility": "Mostly Credible",
-      "liberal/conservative": null
-    },
-    "metricscores": {
-      "age": 718449,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 1,
-      "polarity": 0.05144099727433063,
-      "subjectivity": 0.44194762468571996,
-      "bias": 3,
-      "credibility": 7,
-      "liberal/conservative": null
-    },
-    "score": 0.2702925313081923
-  },
-  "23": {
+  "27": {
     "title": null,
     "media_name": "Sydney Morning Herald",
     "author": null,
     "url": "https://www.smh.com.au/national/queensland/premier-sledges-pm-s-support-for-queensland-lnp-campaign-20201010-p563uu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 715966,
+      "age": 713626,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1118,7 +1285,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 715966,
+      "age": 713626,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1129,143 +1296,15 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.26875894189672694
+    "score": 0.2336568372928229
   },
-  "24": {
-    "title": null,
-    "media_name": "News.com.au",
-    "author": null,
-    "url": "https://www.news.com.au/sport/more-sports/lakers-wide-open-game-winner-misses/video/0a7f0e136db99db542af583b726826e5",
-    "metrics": {
-      "age": 719635,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "nyt_labeller_v1.0.0",
-        "baseball",
-        "basketball",
-        "games",
-        "playoff games",
-        "NBA",
-        "LeBron James",
-        "Jimmy Butler",
-        "LA Lakers",
-        "Miami Heat",
-        "readability-lxml-0.7",
-        "cliff_clavin_v2.6.0"
-      ],
-      "polarity": -0.4,
-      "subjectivity": 0.4,
-      "bias": "Right Center Bias",
-      "credibility": "Mostly Credible",
-      "liberal/conservative": null
-    },
-    "metricscores": {
-      "age": 719635,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 0.4,
-      "polarity": -0.4,
-      "subjectivity": 0.4,
-      "bias": 3,
-      "credibility": 7,
-      "liberal/conservative": null
-    },
-    "score": 0.2636491158646945
-  },
-  "25": {
-    "title": null,
-    "media_name": "The Australian",
-    "author": null,
-    "url": "https://www.theaustralian.com.au/news/latest-news/pregnant-wa-woman-shot-during-home-invasion/news-story/e26cc0d796b1826633ac2f91c21131d6",
-    "metrics": {
-      "age": 716820,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "geonames_2077456",
-        "geonames_2058645",
-        "geonames_2063523",
-        "nyt_labeller_v1.0.0",
-        "medicine and health",
-        "murders and attempted murders",
-        "robberies and thefts",
-        "Clarkson",
-        "Stephen Foley",
-        "Royal Perth Hospital",
-        "readability-lxml-0.7",
-        "cliff_clavin_v2.6.0"
-      ],
-      "polarity": 0.02619047619047619,
-      "subjectivity": 0.1797619047619048,
-      "bias": "Right Center Bias",
-      "credibility": "Mostly Credible",
-      "liberal/conservative": null
-    },
-    "metricscores": {
-      "age": 716820,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 0.4,
-      "polarity": 0.02619047619047619,
-      "subjectivity": 0.1797619047619048,
-      "bias": 3,
-      "credibility": 7,
-      "liberal/conservative": null
-    },
-    "score": 0.2555328627642838
-  },
-  "26": {
-    "title": null,
-    "media_name": "News.com.au",
-    "author": null,
-    "url": "http://feedproxy.google.com/~r/newscomautasndm/~3/RhHYFowtS3M/debbb452767fd89cb9a2f03f5ea6e7b8",
-    "metrics": {
-      "age": 716644,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "geonames_2077456",
-        "geonames_2147291",
-        "nyt_labeller_v1.0.0",
-        "murders and attempted murders",
-        "readability-lxml-0.7",
-        "Victoria Cafasso",
-        "Nancy Grunwaldt",
-        "cliff_clavin_v2.6.0"
-      ],
-      "polarity": 0.013028541226215645,
-      "subjectivity": 0.49410676532769565,
-      "bias": "Right Center Bias",
-      "credibility": "Mostly Credible",
-      "liberal/conservative": null
-    },
-    "metricscores": {
-      "age": 716644,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 0.26666666666666666,
-      "polarity": 0.013028541226215645,
-      "subjectivity": 0.49410676532769565,
-      "bias": 3,
-      "credibility": 7,
-      "liberal/conservative": null
-    },
-    "score": 0.2499859709340943
-  },
-  "27": {
+  "28": {
     "title": null,
     "media_name": "The Guardian AU",
     "author": null,
     "url": "https://www.theguardian.com/books/2020/oct/10/what-were-we-thinking-review-carlos-lozada-trump-books",
     "metrics": {
-      "age": 717632,
+      "age": 715292,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1303,33 +1342,33 @@
         "cliff_clavin_v2.6.0",
         "Eduardo Mu\u00f1oz/Reuters"
       ],
-      "polarity": 0.025728715728715726,
-      "subjectivity": 0.4909530175706647,
+      "polarity": 0.03776735610068944,
+      "subjectivity": 0.4898983886483886,
       "bias": null,
       "credibility": null,
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 717632,
+      "age": 715292,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
       "tags": 2,
-      "polarity": 0.025728715728715726,
-      "subjectivity": 0.4909530175706647,
+      "polarity": 0.03776735610068944,
+      "subjectivity": 0.4898983886483886,
       "bias": 0,
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.24858658258164565
+    "score": 0.22146534090607636
   },
-  "28": {
+  "29": {
     "title": null,
     "media_name": "Australian Broadcast Company (ABC)",
     "author": null,
     "url": "http://www.abc.net.au/news/2020-10-10/do-pedestrian-malls-have-a-future-in-regional-victoria/12749826",
     "metrics": {
-      "age": 718390,
+      "age": 716050,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1371,7 +1410,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 718390,
+      "age": 716050,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1382,99 +1421,15 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.2471674985803518
-  },
-  "29": {
-    "title": null,
-    "media_name": "News.com.au",
-    "author": null,
-    "url": "https://www.news.com.au/national/flight-to-nowhere-qantas-launches-lowaltitude-scenic-flights-around-australia/video/c2694043ddf132311d923d8e24bb290b",
-    "metrics": {
-      "age": 719688,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "geonames_2077456",
-        "nyt_labeller_v1.0.0",
-        "airlines and airplanes",
-        "travel and vacations",
-        "Qantas",
-        "readability-lxml-0.7",
-        "cliff_clavin_v2.6.0"
-      ],
-      "polarity": 0.0,
-      "subjectivity": 0.0,
-      "bias": "Right Center Bias",
-      "credibility": "Mostly Credible",
-      "liberal/conservative": null
-    },
-    "metricscores": {
-      "age": 719688,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 0.23333333333333334,
-      "polarity": 0.0,
-      "subjectivity": 0.0,
-      "bias": 3,
-      "credibility": 7,
-      "liberal/conservative": null
-    },
-    "score": 0.24564862221448333
+    "score": 0.21644272598524938
   },
   "30": {
     "title": null,
     "media_name": "The Guardian AU",
     "author": null,
-    "url": "https://www.theguardian.com/artanddesign/gallery/2020/oct/10/20-photographs-of-the-week",
-    "metrics": {
-      "age": 717633,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "geonames_6252001",
-        "geonames_3895114",
-        "geonames_4662168",
-        "geonames_3873544",
-        "geonames_3871336",
-        "geonames_4667282",
-        "geonames_587116",
-        "nyt_labeller_v1.0.0",
-        "politics and government",
-        "demonstrations and riots",
-        "Donald Trump",
-        "readability-lxml-0.7",
-        "cliff_clavin_v2.6.0"
-      ],
-      "polarity": 0.03333333333333333,
-      "subjectivity": 0.3,
-      "bias": null,
-      "credibility": null,
-      "liberal/conservative": null
-    },
-    "metricscores": {
-      "age": 717633,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 1.4333333333333333,
-      "polarity": 0.03333333333333333,
-      "subjectivity": 0.3,
-      "bias": 0,
-      "credibility": 0,
-      "liberal/conservative": null
-    },
-    "score": 0.24406795835539588
-  },
-  "31": {
-    "title": null,
-    "media_name": "The Guardian AU",
-    "author": null,
     "url": "https://www.theguardian.com/technology/2020/oct/09/facebook-rightwing-extremists-michigan-plot-militia-boogaloo",
     "metrics": {
-      "age": 717633,
+      "age": 715293,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1522,7 +1477,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 717633,
+      "age": 715293,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1533,55 +1488,60 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.2433590979391529
+    "score": 0.2146271808382807
   },
-  "32": {
+  "31": {
     "title": null,
-    "media_name": "Daily Telegraph Australia",
+    "media_name": "The Guardian AU",
     "author": null,
-    "url": "https://www.dailytelegraph.com.au/news/world/contentious-stimulus-deal-unlikely-before-us-election/video/532c421812c5c2d9296b8c87c51fbf69",
+    "url": "https://www.theguardian.com/artanddesign/gallery/2020/oct/10/20-photographs-of-the-week",
     "metrics": {
-      "age": 716945,
+      "age": 715293,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
       "tags": [
         "geonames_6252001",
+        "geonames_3895114",
+        "geonames_4662168",
+        "geonames_3873544",
+        "geonames_3871336",
+        "geonames_4667282",
+        "geonames_587116",
         "nyt_labeller_v1.0.0",
         "politics and government",
-        "finances",
-        "Trump",
-        "Congress",
+        "demonstrations and riots",
+        "Donald Trump",
         "readability-lxml-0.7",
         "cliff_clavin_v2.6.0"
       ],
-      "polarity": 0.022727272727272724,
-      "subjectivity": 0.45075757575757575,
+      "polarity": 0.03333333333333333,
+      "subjectivity": 0.3,
       "bias": null,
       "credibility": null,
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 716945,
+      "age": 715293,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
-      "tags": 1.2666666666666666,
-      "polarity": 0.022727272727272724,
-      "subjectivity": 0.45075757575757575,
+      "tags": 1.4333333333333333,
+      "polarity": 0.03333333333333333,
+      "subjectivity": 0.3,
       "bias": 0,
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.2388927042177411
+    "score": 0.20832380479597853
   },
-  "33": {
+  "32": {
     "title": null,
     "media_name": "International Business Times AU",
     "author": null,
     "url": "https://www.ibtimes.com.au/north-korea-appears-have-held-huge-military-parade-seoul-1626246?utm_source=Public&utm_medium=Feed&utm_campaign=Distribution",
     "metrics": {
-      "age": 717325,
+      "age": 714985,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1612,7 +1572,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 717325,
+      "age": 714985,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1623,7 +1583,47 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.23828274191055296
+    "score": 0.2045578685071199
+  },
+  "33": {
+    "title": null,
+    "media_name": "Daily Telegraph Australia",
+    "author": null,
+    "url": "https://www.dailytelegraph.com.au/news/world/contentious-stimulus-deal-unlikely-before-us-election/video/532c421812c5c2d9296b8c87c51fbf69",
+    "metrics": {
+      "age": 714605,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "geonames_6252001",
+        "nyt_labeller_v1.0.0",
+        "politics and government",
+        "finances",
+        "Trump",
+        "Congress",
+        "readability-lxml-0.7",
+        "cliff_clavin_v2.6.0"
+      ],
+      "polarity": 0.022727272727272724,
+      "subjectivity": 0.45075757575757575,
+      "bias": null,
+      "credibility": null,
+      "liberal/conservative": null
+    },
+    "metricscores": {
+      "age": 714605,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 1.2666666666666666,
+      "polarity": 0.022727272727272724,
+      "subjectivity": 0.45075757575757575,
+      "bias": 0,
+      "credibility": 0,
+      "liberal/conservative": null
+    },
+    "score": 0.20186082894935506
   },
   "34": {
     "title": null,
@@ -1631,7 +1631,7 @@
     "author": null,
     "url": "https://www.dailytelegraph.com.au/sport/more-sports/jimmy-butler-vs-lebron-james-4th-quarter-duel/video/a0f7f420e3c40327a5d726ffb0ae4942",
     "metrics": {
-      "age": 717900,
+      "age": 715560,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1650,7 +1650,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 717900,
+      "age": 715560,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1661,7 +1661,7 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.10826542325727355
+    "score": 0.10308787566820823
   },
   "35": {
     "title": null,
@@ -1669,7 +1669,7 @@
     "author": null,
     "url": "https://www.sportsnews.com.au/horse-racing/peltzer-bounces-back-to-earn-shot-at-bondi-stakes/547022",
     "metrics": {
-      "age": 713115,
+      "age": 710775,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1694,7 +1694,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 713115,
+      "age": 710775,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1705,7 +1705,7 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.10524762367774848
+    "score": 0.10223547208621335
   },
   "36": {
     "title": null,
@@ -1713,7 +1713,7 @@
     "author": null,
     "url": "https://www.smh.com.au/culture/art-and-design/best-of-the-week-what-to-see-hear-and-do-from-october-11-17-20201008-p5636f.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1743,7 +1743,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1754,7 +1754,7 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.0988798228977453
+    "score": 0.09792152177968316
   },
   "37": {
     "title": null,
@@ -1762,7 +1762,7 @@
     "author": null,
     "url": "https://www.smh.com.au/culture/tv-and-radio/i-hold-grudges-joel-creasey-can-t-stop-scrolling-for-old-classmates-20201008-p5635k.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1789,7 +1789,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1800,7 +1800,7 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.07961651120943364
+    "score": 0.07896243087059227
   },
   "38": {
     "title": null,
@@ -1808,7 +1808,7 @@
     "author": null,
     "url": "https://www.theguardian.com/lifeandstyle/2020/oct/10/blind-date-rivkah-kaisa",
     "metrics": {
-      "age": 717631,
+      "age": 715291,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1833,7 +1833,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 717631,
+      "age": 715291,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1844,7 +1844,7 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.07680471220604893
+    "score": 0.0756847767794873
   },
   "39": {
     "title": null,
@@ -1852,7 +1852,7 @@
     "author": null,
     "url": "https://www.smh.com.au/culture/tv-and-radio/with-truly-awesome-frocks-justine-clarke-tells-our-airline-story-20200930-p560nj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1873,7 +1873,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1884,58 +1884,15 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.07000268337060579
+    "score": 0.06802952488768628
   },
   "40": {
-    "title": null,
-    "media_name": "The Guardian AU",
-    "author": null,
-    "url": "https://www.theguardian.com/food/2020/oct/10/how-to-make-the-most-of-over-ripe-papaya-recipe-halwa-tom-hint-waste-not",
-    "metrics": {
-      "age": 717632,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "geonames_1269750",
-        "geonames_1253626",
-        "nyt_labeller_v1.0.0",
-        "food",
-        "cooking and cookbooks",
-        "recipes",
-        "Asma Khan",
-        "Anahita Dhondy",
-        "readability-lxml-0.7",
-        "geonames_10504957",
-        "cliff_clavin_v2.6.0"
-      ],
-      "polarity": 0.20218676122931448,
-      "subjectivity": 0.4675096770841453,
-      "bias": null,
-      "credibility": null,
-      "liberal/conservative": null
-    },
-    "metricscores": {
-      "age": 717632,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 0.36666666666666664,
-      "polarity": 0.20218676122931448,
-      "subjectivity": 0.4675096770841453,
-      "bias": 0,
-      "credibility": 0,
-      "liberal/conservative": null
-    },
-    "score": 0.0659239962318253
-  },
-  "41": {
     "title": null,
     "media_name": "Sports News Australia",
     "author": null,
     "url": "https://www.sportsnews.com.au/horse-racing/perth-queen-regains-her-crown-over-russian-camelot/547024",
     "metrics": {
-      "age": 713060,
+      "age": 710720,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1969,7 +1926,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 713060,
+      "age": 710720,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -1980,7 +1937,50 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.06378709455212933
+    "score": 0.0664790277766676
+  },
+  "41": {
+    "title": null,
+    "media_name": "The Guardian AU",
+    "author": null,
+    "url": "https://www.theguardian.com/food/2020/oct/10/how-to-make-the-most-of-over-ripe-papaya-recipe-halwa-tom-hint-waste-not",
+    "metrics": {
+      "age": 715292,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "geonames_1269750",
+        "geonames_1253626",
+        "nyt_labeller_v1.0.0",
+        "food",
+        "cooking and cookbooks",
+        "recipes",
+        "Asma Khan",
+        "Anahita Dhondy",
+        "readability-lxml-0.7",
+        "geonames_10504957",
+        "cliff_clavin_v2.6.0"
+      ],
+      "polarity": 0.20218676122931448,
+      "subjectivity": 0.4675096770841453,
+      "bias": null,
+      "credibility": null,
+      "liberal/conservative": null
+    },
+    "metricscores": {
+      "age": 715292,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 0.36666666666666664,
+      "polarity": 0.20218676122931448,
+      "subjectivity": 0.4675096770841453,
+      "bias": 0,
+      "credibility": 0,
+      "liberal/conservative": null
+    },
+    "score": 0.06520277434209137
   },
   "42": {
     "title": null,
@@ -1988,7 +1988,7 @@
     "author": null,
     "url": "https://www.smh.com.au/sport/racing/arcadia-queen-lays-down-cox-plate-market-after-beating-russian-camelot-20201010-p563uo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 714969,
+      "age": 712629,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -2020,7 +2020,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 714969,
+      "age": 712629,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -2031,7 +2031,7 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.05940272173755383
+    "score": 0.06173190914685241
   },
   "43": {
     "title": null,
@@ -2039,7 +2039,7 @@
     "author": null,
     "url": "https://www.smh.com.au/culture/books/you-needn-t-get-tipsy-on-this-pub-crawl-of-discovery-20201002-p561gg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -2065,7 +2065,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 717660,
+      "age": 715320,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -2076,7 +2076,7 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.05834572977997872
+    "score": 0.05878303486976768
   },
   "44": {
     "title": null,
@@ -2084,7 +2084,7 @@
     "author": null,
     "url": "https://www.sportsnews.com.au/horse-racing/swats-that-chases-slot-in-the-everest/547002",
     "metrics": {
-      "age": 717744,
+      "age": 715404,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -2104,7 +2104,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 717744,
+      "age": 715404,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -2115,52 +2115,15 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.05241690360592051
+    "score": 0.051289391462040396
   },
   "45": {
     "title": null,
     "media_name": "Sydney Morning Herald",
     "author": null,
-    "url": "https://www.smh.com.au/national/victoria/with-mask-to-match-racing-businesses-try-to-stay-on-track-as-fans-away-from-it-20201009-p563na.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-    "metrics": {
-      "age": 715860,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "nyt_labeller_v1.0.0",
-        "apparel",
-        "readability-lxml-0.7",
-        "cliff_clavin_v2.6.0",
-        "Julia Torrance Hemingway"
-      ],
-      "polarity": 0.1551406926406926,
-      "subjectivity": 0.5024891774891775,
-      "bias": null,
-      "credibility": null,
-      "liberal/conservative": null
-    },
-    "metricscores": {
-      "age": 715860,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 0.16666666666666666,
-      "polarity": 0.1551406926406926,
-      "subjectivity": 0.5024891774891775,
-      "bias": 0,
-      "credibility": 0,
-      "liberal/conservative": null
-    },
-    "score": 0.049427175176842364
-  },
-  "46": {
-    "title": null,
-    "media_name": "Sydney Morning Herald",
-    "author": null,
     "url": "https://www.smh.com.au/sport/nrl/why-the-blues-won-t-be-forgetting-the-man-known-as-big-tino-20201010-p563uz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
     "metrics": {
-      "age": 715958,
+      "age": 713618,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -2189,7 +2152,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 715958,
+      "age": 713618,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -2200,61 +2163,15 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.04903127200098076
+    "score": 0.05107101906247459
   },
-  "47": {
-    "title": null,
-    "media_name": "Sports News Australia",
-    "author": null,
-    "url": "https://www.sportsnews.com.au/horse-racing/its-not-fake-news-that-filly-has-talent/547000",
-    "metrics": {
-      "age": 718259,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "geonames_2155400",
-        "geonames_2147714",
-        "geonames_2077456",
-        "geonames_2145234",
-        "geonames_3181042",
-        "geonames_3172394",
-        "geonames_2171948",
-        "nyt_labeller_v1.0.0",
-        "horse racing",
-        "Maher",
-        "David Eustace",
-        "Mark Zahra",
-        "readability-lxml-0.7",
-        "cliff_clavin_v2.6.0"
-      ],
-      "polarity": 0.13247863247863245,
-      "subjectivity": 0.5950854700854702,
-      "bias": null,
-      "credibility": null,
-      "liberal/conservative": null
-    },
-    "metricscores": {
-      "age": 718259,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 0.4666666666666667,
-      "polarity": 0.13247863247863245,
-      "subjectivity": 0.5950854700854702,
-      "bias": 0,
-      "credibility": 0,
-      "liberal/conservative": null
-    },
-    "score": 0.046205615170619344
-  },
-  "48": {
+  "46": {
     "title": null,
     "media_name": "The Guardian AU",
     "author": null,
     "url": "https://www.theguardian.com/sport/2020/oct/10/no-one-gave-us-a-chance-raiders-prove-doubters-wrong-to-keep-season-alive",
     "metrics": {
-      "age": 718556,
+      "age": 716216,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -2288,7 +2205,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 718556,
+      "age": 716216,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -2299,7 +2216,90 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.04455296079251529
+    "score": 0.048522348895102894
+  },
+  "47": {
+    "title": null,
+    "media_name": "Sydney Morning Herald",
+    "author": null,
+    "url": "https://www.smh.com.au/national/victoria/with-mask-to-match-racing-businesses-try-to-stay-on-track-as-fans-away-from-it-20201009-p563na.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+    "metrics": {
+      "age": 713520,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "nyt_labeller_v1.0.0",
+        "apparel",
+        "readability-lxml-0.7",
+        "cliff_clavin_v2.6.0",
+        "Julia Torrance Hemingway"
+      ],
+      "polarity": 0.1551406926406926,
+      "subjectivity": 0.5024891774891775,
+      "bias": null,
+      "credibility": null,
+      "liberal/conservative": null
+    },
+    "metricscores": {
+      "age": 713520,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 0.16666666666666666,
+      "polarity": 0.1551406926406926,
+      "subjectivity": 0.5024891774891775,
+      "bias": 0,
+      "credibility": 0,
+      "liberal/conservative": null
+    },
+    "score": 0.0478472812242322
+  },
+  "48": {
+    "title": null,
+    "media_name": "Sports News Australia",
+    "author": null,
+    "url": "https://www.sportsnews.com.au/horse-racing/its-not-fake-news-that-filly-has-talent/547000",
+    "metrics": {
+      "age": 715919,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "geonames_2155400",
+        "geonames_2147714",
+        "geonames_2077456",
+        "geonames_2145234",
+        "geonames_3181042",
+        "geonames_3172394",
+        "geonames_2171948",
+        "nyt_labeller_v1.0.0",
+        "horse racing",
+        "Maher",
+        "David Eustace",
+        "Mark Zahra",
+        "readability-lxml-0.7",
+        "cliff_clavin_v2.6.0"
+      ],
+      "polarity": 0.13247863247863245,
+      "subjectivity": 0.5950854700854702,
+      "bias": null,
+      "credibility": null,
+      "liberal/conservative": null
+    },
+    "metricscores": {
+      "age": 715919,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 0.4666666666666667,
+      "polarity": 0.13247863247863245,
+      "subjectivity": 0.5950854700854702,
+      "bias": 0,
+      "credibility": 0,
+      "liberal/conservative": null
+    },
+    "score": 0.04777841355268485
   },
   "49": {
     "title": null,
@@ -2307,7 +2307,7 @@
     "author": null,
     "url": "https://www.sportsnews.com.au/nrl/unbeaten-roosters-topple-warriors-in-nrlw/547006",
     "metrics": {
-      "age": 721138,
+      "age": 718798,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -2338,7 +2338,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 721138,
+      "age": 718798,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -2349,153 +2349,15 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.04010664775488482
+    "score": 0.04339028042880227
   },
   "50": {
-    "title": null,
-    "media_name": "Sporting News",
-    "author": null,
-    "url": "https://www.sportingnews.com/au/cricket/news/cricket-cameron-green-western-australia-sheffield-shield-prepared-to-tune-out-the-hype/7x2mweukqrcl1224ujsl1nk3h",
-    "metrics": {
-      "age": 716722,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "geonames_5815135",
-        "geonames_2077456",
-        "nyt_labeller_v1.0.0",
-        "FIFA",
-        "WA",
-        "Sheffield Shield",
-        "Cameron Green",
-        "Jake Carter",
-        "Lance Morris",
-        "Liam Guthrie",
-        "readability-lxml-0.7",
-        "cliff_clavin_v2.6.0",
-        "Tim Paine label Green"
-      ],
-      "polarity": 0.11304971745811442,
-      "subjectivity": 0.3834324157606599,
-      "bias": null,
-      "credibility": null,
-      "liberal/conservative": null
-    },
-    "metricscores": {
-      "age": 716722,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 0.43333333333333335,
-      "polarity": 0.11304971745811442,
-      "subjectivity": 0.3834324157606599,
-      "bias": 0,
-      "credibility": 0,
-      "liberal/conservative": null
-    },
-    "score": 0.039991575049808124
-  },
-  "51": {
-    "title": null,
-    "media_name": "Sports News Australia",
-    "author": null,
-    "url": "https://www.sportsnews.com.au/horse-racing/wild-ruler-stakes-claims-for-the-everest/547004",
-    "metrics": {
-      "age": 717198,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "geonames_6252001",
-        "geonames_2155400",
-        "geonames_4273857",
-        "geonames_2077456",
-        "geonames_4271199",
-        "geonames_2208285",
-        "nyt_labeller_v1.0.0",
-        "horse racing",
-        "track and field",
-        "Peter",
-        "Chris Waller",
-        "Redzel",
-        "Paul Snowden",
-        "Osamu",
-        "Henry Field",
-        "readability-lxml-0.7",
-        "cliff_clavin_v2.6.0"
-      ],
-      "polarity": 0.10380658436213992,
-      "subjectivity": 0.48487654320987655,
-      "bias": null,
-      "credibility": null,
-      "liberal/conservative": null
-    },
-    "metricscores": {
-      "age": 717198,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 0.5666666666666667,
-      "polarity": 0.10380658436213992,
-      "subjectivity": 0.48487654320987655,
-      "bias": 0,
-      "credibility": 0,
-      "liberal/conservative": null
-    },
-    "score": 0.038814078581687575
-  },
-  "52": {
-    "title": null,
-    "media_name": "The Guardian AU",
-    "author": null,
-    "url": "https://www.theguardian.com/stage/2020/oct/10/married-sex-is-like-making-risotto-always-nice-but-often-you-cant-be-arsed",
-    "metrics": {
-      "age": 717632,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": [
-        "nyt_labeller_v1.0.0",
-        "reviews",
-        "Netflix",
-        "Tesco",
-        "Crawley",
-        "Pete",
-        "Leesa",
-        "Butlin",
-        "Romesh Ranganathan",
-        "Transworld Publishers Ltd",
-        "readability-lxml-0.7",
-        "cliff_clavin_v2.6.0"
-      ],
-      "polarity": 0.10857905030699155,
-      "subjectivity": 0.5294173351158646,
-      "bias": null,
-      "credibility": null,
-      "liberal/conservative": null
-    },
-    "metricscores": {
-      "age": 717632,
-      "inlink_count": null,
-      "outlink_count": null,
-      "facebook_share_count": null,
-      "tags": 0.4,
-      "polarity": 0.10857905030699155,
-      "subjectivity": 0.5294173351158646,
-      "bias": 0,
-      "credibility": 0,
-      "liberal/conservative": null
-    },
-    "score": 0.03824168295512842
-  },
-  "53": {
     "title": null,
     "media_name": "International Business Times AU",
     "author": null,
     "url": "https://www.ibtimes.com.au/heat-edge-lakers-thriller-keep-nba-title-dream-alive-1626277?utm_source=Public&utm_medium=Feed&utm_campaign=Distribution",
     "metrics": {
-      "age": 719744,
+      "age": 717404,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -2536,7 +2398,7 @@
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 719744,
+      "age": 717404,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
@@ -2547,49 +2409,241 @@
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.03538819831268806
+    "score": 0.042254229027061274
   },
-  "54": {
+  "51": {
     "title": null,
-    "media_name": "The Guardian AU",
+    "media_name": "Sports News Australia",
     "author": null,
-    "url": "https://www.theguardian.com/australia-news/2020/oct/10/search-for-shark-attack-victim-continues-near-esperance-in-western-australia",
+    "url": "https://www.sportsnews.com.au/horse-racing/wild-ruler-stakes-claims-for-the-everest/547004",
     "metrics": {
-      "age": 720406,
+      "age": 714858,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
       "tags": [
+        "geonames_6252001",
+        "geonames_2155400",
+        "geonames_4273857",
         "geonames_2077456",
-        "geonames_2058645",
+        "geonames_4271199",
+        "geonames_2208285",
         "nyt_labeller_v1.0.0",
-        "accidents and safety",
-        "animals",
-        "Mark McGowan",
-        "WA",
-        "Wylie",
-        "Laeticia Brouwer",
+        "horse racing",
+        "track and field",
+        "Peter",
+        "Chris Waller",
+        "Redzel",
+        "Paul Snowden",
+        "Osamu",
+        "Henry Field",
         "readability-lxml-0.7",
         "cliff_clavin_v2.6.0"
       ],
-      "polarity": 0.09110275689223057,
-      "subjectivity": 0.30238095238095236,
+      "polarity": 0.10380658436213992,
+      "subjectivity": 0.48487654320987655,
       "bias": null,
       "credibility": null,
       "liberal/conservative": null
     },
     "metricscores": {
-      "age": 720406,
+      "age": 714858,
       "inlink_count": null,
       "outlink_count": null,
       "facebook_share_count": null,
-      "tags": 0.36666666666666664,
-      "polarity": 0.09110275689223057,
-      "subjectivity": 0.30238095238095236,
+      "tags": 0.5666666666666667,
+      "polarity": 0.10380658436213992,
+      "subjectivity": 0.48487654320987655,
       "bias": 0,
       "credibility": 0,
       "liberal/conservative": null
     },
-    "score": 0.032572787811191564
+    "score": 0.0418605592038202
+  },
+  "52": {
+    "title": null,
+    "media_name": "Sporting News",
+    "author": null,
+    "url": "https://www.sportingnews.com/au/cricket/news/cricket-cameron-green-western-australia-sheffield-shield-prepared-to-tune-out-the-hype/7x2mweukqrcl1224ujsl1nk3h",
+    "metrics": {
+      "age": 714382,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "geonames_5815135",
+        "geonames_2077456",
+        "nyt_labeller_v1.0.0",
+        "FIFA",
+        "WA",
+        "Sheffield Shield",
+        "Cameron Green",
+        "Jake Carter",
+        "Lance Morris",
+        "Liam Guthrie",
+        "readability-lxml-0.7",
+        "cliff_clavin_v2.6.0",
+        "Tim Paine label Green"
+      ],
+      "polarity": 0.11304971745811442,
+      "subjectivity": 0.3834324157606599,
+      "bias": null,
+      "credibility": null,
+      "liberal/conservative": null
+    },
+    "metricscores": {
+      "age": 714382,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 0.43333333333333335,
+      "polarity": 0.11304971745811442,
+      "subjectivity": 0.3834324157606599,
+      "bias": 0,
+      "credibility": 0,
+      "liberal/conservative": null
+    },
+    "score": 0.04165330201069899
+  },
+  "53": {
+    "title": null,
+    "media_name": "The Guardian AU",
+    "author": null,
+    "url": "https://www.theguardian.com/stage/2020/oct/10/married-sex-is-like-making-risotto-always-nice-but-often-you-cant-be-arsed",
+    "metrics": {
+      "age": 715292,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "nyt_labeller_v1.0.0",
+        "reviews",
+        "Netflix",
+        "Tesco",
+        "Crawley",
+        "Pete",
+        "Leesa",
+        "Butlin",
+        "Romesh Ranganathan",
+        "Transworld Publishers Ltd",
+        "readability-lxml-0.7",
+        "cliff_clavin_v2.6.0"
+      ],
+      "polarity": 0.10857905030699155,
+      "subjectivity": 0.5294173351158646,
+      "bias": null,
+      "credibility": null,
+      "liberal/conservative": null
+    },
+    "metricscores": {
+      "age": 715292,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 0.4,
+      "polarity": 0.10857905030699155,
+      "subjectivity": 0.5294173351158646,
+      "bias": 0,
+      "credibility": 0,
+      "liberal/conservative": null
+    },
+    "score": 0.03969261528384095
+  },
+  "54": {
+    "title": null,
+    "media_name": "Daily Telegraph Australia",
+    "author": null,
+    "url": "https://www.dailytelegraph.com.au/coronavirus/bombshell-dossier-lays-out-case-against-chinese-bat-virus-program/news-story/55add857058731c9c71c0e96ad17da60?nk=96d5fa1ab0b92bc193e900251f004b7c-1591282020",
+    "metrics": {
+      "age": 5816520,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": [
+        "geonames_1814991",
+        "geonames_1816670",
+        "geonames_1796236",
+        "geonames_2165798",
+        "geonames_1791247",
+        "geonames_1806949",
+        "nyt_labeller_v1.0.0",
+        "medicine and health",
+        "crime and criminals",
+        "diseases and conditions",
+        "research",
+        "Donald Trump",
+        "New York Times",
+        "Washington Post",
+        "EU",
+        "Mandel",
+        "CSIRO",
+        "South China Morning Post",
+        "University of Texas",
+        "University of North Carolina",
+        "Scott Morrison",
+        "The World Health Organisation",
+        "Richard Grenell",
+        "Chinese Academy of Sciences",
+        "health authority",
+        "Forrest",
+        "US intelligence committee",
+        "Ministry of Science and Technology",
+        "Scientific American magazine",
+        "The Telegraph",
+        "Andrew Hastie",
+        "Chinese Academy of Science",
+        "Saturday Telegraph",
+        "Sarah Henderson",
+        "North Carolina University",
+        "Andy Rogers",
+        "Wuhan Institute of Virology",
+        "Dr Shi",
+        "National Health Commission",
+        "Peng Zhou",
+        "Ma Xiaowei",
+        "Ralph Baric",
+        "Yanzhong Huang",
+        "geonames_6174041",
+        "Wuhan Institute",
+        "Linfa Wang",
+        "Shi Zhengli",
+        "Wang Guangfa",
+        "guess_by_unknown",
+        "Zhang Yongzhen",
+        "Fang Bin",
+        "readability-lxml-0.7",
+        "Huang Yan Ling",
+        "CSIRO laboratories",
+        "Wuhan Municipal Health Commission",
+        "cliff_clavin_v2.6.0",
+        "PRC National Health Commission",
+        "Hubei health commission",
+        "Chinese Academy of Sciences\u2019 Wuhan Institute of Virology",
+        "South China University of Technology study",
+        "Wuhan Institute of Virology team",
+        "South China University of Technology researchers",
+        "Wuhan pneumonia samples",
+        "Botao Xiano",
+        "Mick Tsikas/AAP RISKY"
+      ],
+      "polarity": 0.060779353164674296,
+      "subjectivity": 0.38413307385784423,
+      "bias": null,
+      "credibility": null,
+      "liberal/conservative": null
+    },
+    "metricscores": {
+      "age": 5816520,
+      "inlink_count": null,
+      "outlink_count": null,
+      "facebook_share_count": null,
+      "tags": 1,
+      "polarity": 0.060779353164674296,
+      "subjectivity": 0.38413307385784423,
+      "bias": 0,
+      "credibility": 0,
+      "liberal/conservative": null
+    },
+    "score": 0.0380182188861088
   }
 }
