@@ -1,38 +1,34 @@
-import requests 
+import requests
 from bs4 import BeautifulSoup
 from adjective_polarization import ArticleScrapper
 
+
 class PolBiasScraper():
-    URL = 'https://mediabiasfactcheck.com/the-australian'
-    # results = soup.select('.entry-title')[0]
-    def __init__(self, url = URL):
-        self.url = url
-    def parseURL(self, url = URL):
+    def parseURL(self, url='https://mediabiasfactcheck.com/the-australian'):
+        polmetrics = {"bias": 0, "credibility": 0, "liberal/conservative": 0}
         page = requests.get(url)
-        if(page.status_code == 200):
+        if page.status_code == 200:
             soup = BeautifulSoup(page.content, 'html.parser')
             try:
-                results = soup.find("img",{"data-attachment-id": True})["alt"]
-                # print(results.split(" - ")[3])
-                resultsList = results.split(" - ")
-                bias = None
-                credibility = None
-                l_c = None
-                for x in resultsList:
-                    biasDict = ["Left Center Bias", "Right Center Bias", "Right Bias", "Left Bias", "Least Biased"]
-                    credibilityDict = ["Credible", "Mostly Credible", "Not always Credible or Reliable", "Not Credible"]
-                    l_c_Dict = ["Liberal", "Conservation"]
-                    if x in biasDict:
-                        bias = x
-                    elif x in credibilityDict:
-                        credibility = x
-                    elif x in l_c_Dict:
-                        l_c = x
-                return {"bias": bias, "credibility": credibility, "liberal/conservative": l_c}
+                results = soup.find("img", {"data-attachment-id": True})["alt"].split(" - ")
+                for x in results:
+                    bias_dict = {"Left Center Bias": 3, "Right Center Bias": 3, "Right Bias": 1, "Left Bias": 1,
+                                "Least Biased": 5}
+                    credibility_dict = {"Credible": 10, "Mostly Credible": 7, "Not always Credible or Reliable": 4,
+                                       "Not Credible": 0}
+                    l_c_dict = {"Liberal": 1, "Conservation": 0}
+                    if x in bias_dict.keys():
+                        polmetrics["bias"] = bias_dict[x]
+                    elif x in credibility_dict.keys():
+                        polmetrics["credibility"] = credibility_dict[x]
+                    elif x in l_c_dict:
+                        polmetrics["l_c"] = l_c_dict[x]
+                return polmetrics
             except:
-                abc = 1
-                #print("error noises", soup, "\nWith this as the input url: ", url)
-        return {"bias": None, "credibility": None, "liberal/conservative": None}
+                print("Unable to collect PolBias data for url {0}".format(url))
+        return polmetrics
+
+
 if __name__ == "__main__":
     p = PolBiasScraper()
     print(p.parseURL())
